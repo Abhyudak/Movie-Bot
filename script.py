@@ -2,7 +2,7 @@ class Script(object):
     START_TXT = """𝗛𝗲𝗹𝗹𝗼 {},
 
 𝗠𝘆 𝗻𝗮𝗺𝗲 𝗶𝘀  <a href=https://t.me/{}>{}</a>!
-ഞാൻ ഒരു 𝐀𝐔𝐓𝐎 𝐅𝐈𝐋𝐓𝐄𝐑 𝐁𝐎𝐓 ആണ്, എന്റെ മുതലാളി <a href='https://t.me/DhashamoolamDhamu'>𝕯𝖍𝖆𝖘𝖍𝖆𝖒𝖔𝖔𝖑𝖆𝖒𝕯𝖍𝖆𝖒𝖚</a> ആണ്, നിങ്ങൾക്കും നിങ്ങളുടെ ഗ്രൂപ്പുകളിൽ ഇപ്പോൾ എന്നെ ഉപയോഗിക്കാവുന്നതാണ്.
+ഞാൻ ഒരു 𝐀𝐔𝐓𝐎 𝐅𝐈𝐋𝐓𝐄𝐑 𝐁𝐎𝐓 ആണ്, എന്റെ മുതലാളി <a href='https://t.me/AkLucasHood'>𝕯𝖍𝖆𝖘𝖍𝖆𝖒𝖔𝖔𝖑𝖆𝖒𝕯𝖍𝖆𝖒𝖚</a> ആണ്, നിങ്ങൾക്കും നിങ്ങളുടെ ഗ്രൂപ്പുകളിൽ ഇപ്പോൾ എന്നെ ഉപയോഗിക്കാവുന്നതാണ്.
 
 """
 
@@ -13,20 +13,20 @@ class Script(object):
     ABOUT_TXT = """
 ╭━━━━━━━━━━━━━━━━━━━━━➣ 
 ┣⪼  ᴍʏ ɴᴀᴍᴇ: {}
-┣ ⪼ ᴄʀᴇᴀᴛᴏʀ: <a href='https://t.me/DhashamoolamDhamu'>ᴅʜᴀꜱʜᴀᴍᴏᴏʟᴀᴍ ᴅʜᴀᴍᴜ</a>
+┣ ⪼ ᴄʀᴇᴀᴛᴏʀ: <a href='https://t.me/AkLucasHood'>Ak-LucasHood</a>
 ┣⪼ ʟɪʙʀᴀʀʏ: <a href='https://docs.pyrogram.org/'>Pyrogram</a>
-┣⪼ 𝚁𝚎𝚙𝚘: <a href='https://github.com/ccadmin1/Movie-Bot'>ᴄʟɪᴄᴋ</a>
-┣⪼ ᴅᴀᴛᴀ ʙᴀꜱᴇ: <a href='https://www.mongodb.com/'>MongoDB</a>
-┣⪼ ʙᴏᴛ ꜱᴇʀᴠᴇʀ: <a href='https://heroku.com'>Heroku</a>
+┣⪼ 𝚁𝚎𝚙𝚘: <a href='https://t.me/AkvMovieHub'>ᴄʟɪᴄᴋ</a>
+┣⪼ ᴅᴀᴛᴀ ʙᴀꜱᴇ: <a href='https://www.mongodb.com/'>Private DB</a>
+┣⪼ ʙᴏᴛ ꜱᴇʀᴠᴇʀ: <a href='https://heroku.com'>Private Server</a>
 ┣⪼ ʙᴜɪʟᴅ ꜱᴛᴀᴛᴜꜱ: v2.0.1 [ Beta ]
 ╰━━━━━━━━━━━━━━━━━━━━━➣"""
 
     SOURCE_TXT = """<b>Source:</b>
 IMDb is a Open source project.
-Source: <a https://github.com/ccadmin1/Movie-Bot'>GitHub - Click here 👈</a>
+Source: <a https://t.me/AkvMovieHub'>Source - Click here 👈</a>
 
 <b>DEVS:</b>
-- <a href='https://t.me/DhashamoolamDhamu'>DhashamoolamDhamu</a>
+- <a href='https://t.me/Rockyskgf'>Team Rozarians</a>
 
 """
 
@@ -55,7 +55,7 @@ Source: <a https://github.com/ccadmin1/Movie-Bot'>GitHub - Click here 👈</a>
 3. Buttons should be properly parsed as markdown format.
 
 <b>URL buttons:</b>
-<code>[Button Text](buttonurl:https://t.me/josprojects)</code>
+<code>[Button Text](buttonurl:https://t.me/akprojects)</code>
 
 <b>Alert buttons:</b>
 <code>[Button Text](buttonalert:This is an alert message)</code>"""
