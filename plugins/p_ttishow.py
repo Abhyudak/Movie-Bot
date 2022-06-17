@@ -8,7 +8,7 @@ from utils import get_size, temp, get_settings
 from script import Script
 from pyrogram.errors import ChatAdminRequired
 
-"""-----------------------------------------https://t.me/+97gmBAMfVDVlN2Q1 --------------------------------------"""
+"""-----------------------------------------https://t.me/Ak_Updates_botz --------------------------------------"""
 
 @Client.on_message(filters.new_chat_members & filters.group)
 async def save_group(bot, message):
