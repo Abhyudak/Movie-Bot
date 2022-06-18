@@ -436,16 +436,13 @@ async def cb_handler(client: Client, query: CallbackQuery):
         ]]
         reply_markup = InlineKeyboardMarkup(buttons)
         sts = await query.message.reply_text(
-                  text="▢▢▢"
-        )
-        await sts.edit_text(
-            text="▣▢▢"
+                  text="▣▢▢"
         )
         await sts.edit_text(
             text="▣▣▢"
         )
         await sts.edit_text(
-                   text="▣▣▣"
+            text="▣▣▣"
         )
         await sts.delete(
         )
@@ -484,18 +481,15 @@ async def cb_handler(client: Client, query: CallbackQuery):
             InlineKeyboardButton('𝘾𝙇𝙊𝙎𝙀', callback_data='close_data'),
             InlineKeyboardButton('⫷ 𝘽𝘼𝘾𝙆', callback_data='start'),
         ]]
-        reply_markup = InlineKeyboardMarkup(buttons)
+         reply_markup = InlineKeyboardMarkup(buttons)
         sts = await query.message.reply_text(
-                  text="▢▢▢"
-        )
-        await sts.edit_text(
-            text="▣▢▢"
+                  text="▣▢▢"
         )
         await sts.edit_text(
             text="▣▣▢"
         )
         await sts.edit_text(
-                   text="▣▣▣"
+            text="▣▣▣"
         )
         await sts.delete(
         )
@@ -511,18 +505,15 @@ async def cb_handler(client: Client, query: CallbackQuery):
             InlineKeyboardButton('⫷ 𝘽𝘼𝘾𝙆', callback_data='start'),
             InlineKeyboardButton('》𝘾𝙇𝙊𝙎𝙀《', callback_data='close_data')
         ]]
-        reply_markup = InlineKeyboardMarkup(buttons)
+         reply_markup = InlineKeyboardMarkup(buttons)
         sts = await query.message.reply_text(
-                  text="▢▢▢"
-        )
-        await sts.edit_text(
-            text="▣▢▢"
+                  text="▣▢▢"
         )
         await sts.edit_text(
             text="▣▣▢"
         )
         await sts.edit_text(
-                   text="▣▣▣"
+            text="▣▣▣"
         )
         await sts.delete(
         )
@@ -801,7 +792,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
         ]]
         
         await query.message.edit_text(
-            text="AnjalinaBot"
+            text="AK-FilmBot"
         )
         reply_markup = InlineKeyboardMarkup(buttons)
         total = await Media.count_documents()
